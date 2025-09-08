@@ -5,8 +5,8 @@
 ### File Permissions in Linux works in Three modes or three section
 
 
-1. User Owner(u)
-2. Group Owner(g)
-3. Others(o)
+1. **User Owner(u)**
+2. **Group Owner(g)**
+3. **Others(o)**
 
 ### So we can say Linux File Permissions works on UGO modes.
